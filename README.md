@@ -1,5 +1,5 @@
 # Lost-Dungeons
-A 2D indie game made entirely in java for my OOP class during my sophmore year.
+_A 2D indie game made entirely in java for my OOP class during my sophmore year._
 
 <p align="center">
   <img src="./Lost-Dungeons/Recursos/preview.png" alt="Preview_image" width="800" height="400" />
