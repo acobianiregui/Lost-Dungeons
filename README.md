@@ -1,5 +1,8 @@
 # Lost-Dungeons
 A 2D indie game made entirely in java for my OOP class during my sophmore year.
+
+![Preview](Lost-Dungeons/Recursos/preview.png)
+
 ## 🚨DISCLAIMERS🚨
 This project includes resources from third parties. <br>
 I  do __NOT__  own the pixel art used in this game, the pixels have been obtained mainly from [craftpix.net](https://craftpix.net/freebies/?srsltid=AfmBOoqJkK-FD9y_OSvC1s1gSGJ9PlDB32-CiIhr16L-vxFRflh_EU6f) <br>
